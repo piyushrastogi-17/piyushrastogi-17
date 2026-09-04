@@ -162,53 +162,7 @@ DP              ████████░░░░░░░░░░░░
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushrastogi-17&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrastogi-17&layout=compact&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushrastogi-17&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/piyushrastogi-17/piyushrastogi-17/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyushrastogi-17&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
 
 ---
 
